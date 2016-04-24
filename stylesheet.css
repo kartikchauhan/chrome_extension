@@ -1,0 +1,53 @@
+#position_whatinmind
+	{
+		position: relative;
+		top:40vh;
+	}
+
+
+	.reflect
+	{
+		z-index: 2;
+		position: relative;
+		top:10vh;
+		color:white;
+		font-family: Verdana;
+		text-align:center;
+		font-weight: lighter;
+		font-size: 2vh;
+		width:30%;
+	}
+
+	#time
+	{   z-index: 2;
+		position: relative;
+		top:4vh;
+		color:white;
+		font-family: Verdana;
+		text-align:center;
+		font-weight: lighter;
+		font-size: 5vh;
+	}
+
+	#wish
+	{   z-index: 2;
+		position: relative;
+		top:4vh;
+		color:white;
+		font-family: Verdana;
+		text-align:center;
+		font-weight: lighter;
+		font-size: 5vh;
+	}
+
+
+	 img
+	 {
+	 	background-size:cover;
+	 	height:100%;
+	 	width:100%;
+	 	position:fixed;
+	 	left:0;
+	 	top:0;
+	 	
+	 }
